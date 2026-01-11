@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+id btnAdd
+id btnAddBread
+id btnAddEgg
+id btnAddMilk
+id btnBack
+id btnConfirm
+id btnGoCart
+id button_decrease
+id button_increase
+id rvCart
+id text_quantity
+id tvName
+id tvPrice
+id tvTotal
+layout activity_cart
+layout activity_main
+layout item_cart
+layout item_product
